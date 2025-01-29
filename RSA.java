@@ -41,7 +41,8 @@ public class RSA {
         BigInteger decryptedMessage = ciphertext.modPow(d, n);
         System.out.println("Decrypted Message: " + decryptedMessage);
     }
-}
+} 
+/*OUTPUT*/
 Public Key (e, n): 179, 221
 Private Key (d, n): 79, 221
 Original Message: 12345
