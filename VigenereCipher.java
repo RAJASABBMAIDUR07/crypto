@@ -57,6 +57,7 @@ public class VigenereCipher {
         input.close();
     }
 }
+/*OUTPUT*/
 Welcome to the Vigenère Cipher Program!
 Enter your plaintext message: HELLO VIGENERE
 Enter your encryption key: KEY
