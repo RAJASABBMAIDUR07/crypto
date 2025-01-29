@@ -31,7 +31,8 @@ public class ExtendedEuclidean {
 
         scanner.close();
     }
-}
+
+/*OUTPUT*/
 Enter first number: 30
 Enter second number: 12
 GCD: 6
