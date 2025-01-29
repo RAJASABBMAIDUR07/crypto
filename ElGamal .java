@@ -39,6 +39,7 @@ public class ElGamal {
         System.out.println("Decrypted Message: " + decryptedMessage);
     }
 }
+/*OUTPUT*/
 Public Key e1: 3452
 Private Key d: 7243872398374982374928734923
 
