@@ -73,6 +73,7 @@ public class AffineCipher{
         sc.close();
     }
 }
+/*OUTPUT*/
 Welcome to Affine Cipher Program
 Input text to encrypt: hello world
 Enter key multiplier (a): 7
